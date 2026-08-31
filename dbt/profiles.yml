@@ -1,0 +1,13 @@
+novaspin_dbt:
+  outputs:
+    dev:
+      account: WQJCOHK-WB64060
+      database: NOVASPIN
+      password: Ph5S8Ainy2iS4hG
+      role: ACCOUNTADMIN
+      schema: muhozgu_schema
+      threads: 1
+      type: snowflake
+      user: muhozgu
+      warehouse: NOVASPIN
+  target: dev

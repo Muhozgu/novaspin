@@ -1,0 +1,55 @@
+market_id,country_code,country_name,region,currency,launch_date,regulatory_status,market_tier
+MKT-001,MT,Malta,Europe,EUR,2016-04-10,Regulated,Tier 1
+MKT-004,DE,Germany,Europe,EUR,2016-07-21,Regulated,Tier 1
+MKT-003,SE,Sweden,Europe,SEK,2016-09-22,Regulated,Tier 1
+MKT-002,GB,United Kingdom,Europe,GBP,2016-10-26,Regulated,Tier 1
+MKT-007,DK,Denmark,Europe,DKK,2017-02-01,Regulated,Tier 2
+MKT-009,ES,Spain,Europe,EUR,2017-03-15,Regulated,Tier 2
+MKT-005,FI,Finland,Europe,EUR,2017-06-08,Regulated,Tier 1
+MKT-008,IE,Ireland,Europe,EUR,2017-09-12,Regulated,Tier 2
+MKT-006,NO,Norway,Europe,NOK,2017-11-10,Regulated,Tier 1
+MKT-010,IT,Italy,Europe,EUR,2018-02-04,Regulated,Tier 1
+MKT-011,PT,Portugal,Europe,EUR,2018-07-12,Regulated,Tier 2
+MKT-013,AT,Austria,Europe,EUR,2018-09-26,Regulated,Tier 3
+MKT-014,PL,Poland,Europe,PLN,2018-10-05,Regulated,Tier 2
+MKT-012,NL,Netherlands,Europe,EUR,2018-12-23,Regulated,Tier 2
+MKT-018,BR,Brazil,South America,BRL,2019-02-16,Newly Regulated,Tier 1
+MKT-017,ZA,South Africa,Africa,ZAR,2019-07-07,Newly Regulated,Tier 2
+MKT-015,CA,Canada,North America,CAD,2019-09-19,Regulated,Tier 1
+MKT-016,NZ,New Zealand,Oceania,NZD,2019-10-14,Regulated,Tier 3
+MKT-019,BE,Belgium,Europe,EUR,2019-11-03,Regulated,Tier 3
+MKT-023,CZ,Czech Republic,Europe,CZK,2020-03-07,Regulated,Tier 3
+MKT-022,RO,Romania,Europe,RON,2020-05-15,Regulated,Tier 2
+MKT-020,FR,France,Europe,EUR,2020-06-13,Regulated,Tier 1
+MKT-021,GR,Greece,Europe,EUR,2020-07-02,Regulated,Tier 3
+MKT-024,CH,Switzerland,Europe,CHF,2020-12-05,Regulated,Tier 2
+MKT-027,AR,Argentina,South America,ARS,2021-05-27,Newly Regulated,Tier 3
+MKT-029,CL,Chile,South America,CLP,2021-07-19,Grey Market,Tier 3
+MKT-026,CO,Colombia,South America,COP,2021-08-24,Newly Regulated,Tier 2
+MKT-025,MX,Mexico,North America,MXN,2021-10-13,Newly Regulated,Tier 2
+MKT-028,PE,Peru,South America,PEN,2021-10-28,Newly Regulated,Tier 3
+MKT-033,ID,Indonesia,Asia,IDR,2022-02-03,Grey Market,Tier 3
+MKT-032,PH,Philippines,Asia,PHP,2022-03-24,Newly Regulated,Tier 3
+MKT-030,IN,India,Asia,INR,2022-06-11,Grey Market,Tier 2
+MKT-031,JP,Japan,Asia,JPY,2022-06-14,Grey Market,Tier 2
+MKT-034,MY,Malaysia,Asia,MYR,2022-07-22,Grey Market,Tier 3
+MKT-036,US,United States,North America,USD,2023-01-24,Newly Regulated,Tier 1
+MKT-039,TH,Thailand,Asia,THB,2023-04-12,Grey Market,Tier 3
+MKT-038,SG,Singapore,Asia,SGD,2023-10-30,Regulated,Tier 2
+MKT-037,KR,South Korea,Asia,KRW,2023-11-10,Grey Market,Tier 3
+MKT-035,AU,Australia,Oceania,AUD,2023-11-21,Regulated,Tier 1
+MKT-041,KE,Kenya,Africa,KES,2024-03-01,Newly Regulated,Tier 3
+MKT-044,MA,Morocco,Africa,MAD,2024-05-09,Grey Market,Tier 3
+MKT-040,NG,Nigeria,Africa,NGN,2024-08-19,Newly Regulated,Tier 2
+MKT-043,EG,Egypt,Africa,EGP,2024-09-13,Grey Market,Tier 3
+MKT-042,GH,Ghana,Africa,GHS,2024-10-04,Newly Regulated,Tier 3
+MKT-045,AE,United Arab Emirates,Middle East,AED,2025-01-25,Grey Market,Tier 2
+MKT-047,TR,Turkiye,Middle East,TRY,2025-06-12,Grey Market,Tier 3
+MKT-049,QA,Qatar,Middle East,QAR,2025-09-05,Grey Market,Tier 3
+MKT-048,IL,Israel,Middle East,ILS,2025-11-22,Regulated,Tier 2
+MKT-046,SA,Saudi Arabia,Middle East,SAR,2025-12-21,Grey Market,Tier 3
+MKT-052,VN,Vietnam,Asia,VND,2026-02-17,Grey Market,Tier 3
+MKT-053,PK,Pakistan,Asia,PKR,2026-03-30,Grey Market,Tier 3
+MKT-054,BD,Bangladesh,Asia,BDT,2026-04-24,Grey Market,Tier 3
+MKT-051,RU,Russia,Europe,RUB,2026-07-04,Grey Market,Tier 3
+MKT-050,CN,China,Asia,CNY,2026-07-09,Grey Market,Tier 3

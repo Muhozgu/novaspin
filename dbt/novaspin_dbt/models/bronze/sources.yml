@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: "Bronze layer - raw tables from Snowflake"
+    database: NOVASPIN
+    schema: bronze  # or whatever your schema name is
+    tables:
+      - name: markets
+        description: "Raw market/country data"
+      - name: players
+        description: "Raw player data"
+      - name: sessions
+        description: "Raw session data"
+      - name: game_rounds
+        description: "Raw game rounds data"
+      - name: outcomes
+        description: "Raw outcomes data"
