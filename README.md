@@ -1,2 +1,1 @@
-# novaspin
-Novaspin Casino - Global iGaming Performance Analytics
+# Novaspin Casino - Global iGaming Performance Analytics
